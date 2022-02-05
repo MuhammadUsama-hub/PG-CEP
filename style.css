@@ -1,0 +1,46 @@
+h1
+{
+    color: white;
+    background-color: rgba(10, 9, 9, 0.89);
+    text-align: center;
+    height: 70px;
+    text-transform: uppercase;
+}
+h2,h3
+{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.designFactors{
+   text-align: center;
+}
+button
+{
+   width: 120px;
+}
+ol
+{
+    color: white;
+    background-color: rgba(10, 9, 9, 0.89);
+    font-weight: bold;
+    padding: 30px;
+}
+p
+{
+    color: white;
+    background-color: rgba(10, 9, 9, 0.89);
+    font-weight: bold;
+    padding: 30px;
+    text-align: justify;
+    font-size: larger;
+}
+.intro
+{
+    color: black;
+    font-weight: bold;
+    padding: 30px;
+    text-align: center;
+    font-size: larger;
+    background-color: white;
+}
